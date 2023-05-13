@@ -63,6 +63,9 @@
     width: 100%;
     margin: 0 auto;
   }
+  .box-list-item {
+    padding: 3% !important;
+  }
 }
 @media only screen and (min-width: 768px) and (max-width: 992px) {
   .bg-header {
