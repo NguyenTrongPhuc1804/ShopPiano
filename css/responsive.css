@@ -24,12 +24,12 @@
   }
   .content-box {
     margin: 0 auto;
-    width: 80% !important;
+    width: 85% !important;
     font-size: 15px !important;
   }
   .content-desc {
     text-align: justify !important;
-    word-spacing: -2px;
+    word-spacing: 0;
   }
   .content {
     font-size: 28px !important;
