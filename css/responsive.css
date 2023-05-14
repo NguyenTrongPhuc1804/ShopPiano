@@ -24,11 +24,11 @@
   }
   .content-box {
     margin: 0 auto;
-    width: 80% !important;
+    width: 74% !important;
   }
   .content-desc {
     text-align: justify !important;
-    word-spacing: 0px;
+    word-spacing: -2px;
   }
   .content {
     font-size: 28px !important;
