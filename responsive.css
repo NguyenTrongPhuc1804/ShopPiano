@@ -28,6 +28,7 @@
   }
   .content-desc {
     text-align: left !important;
+    word-spacing: 0px;
   }
   .content {
     font-size: 28px !important;
@@ -98,7 +99,7 @@
     width: 80% !important;
   }
   .content-desc {
-    text-align: left !important;
+    text-align: justify !important;
   }
   .content {
     font-size: 28px !important;
