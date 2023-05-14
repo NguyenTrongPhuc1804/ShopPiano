@@ -24,7 +24,8 @@
   }
   .content-box {
     margin: 0 auto;
-    width: 74% !important;
+    width: 70% !important;
+    font-size: 15px !important;
   }
   .content-desc {
     text-align: justify !important;
